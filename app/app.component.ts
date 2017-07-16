@@ -1,5 +1,5 @@
 import {Component} from 'angular2/core';
-import {CourseComponent} from './courses.component'
+import {CourseComponent} from './course.component'
 
 @Component({
     selector: 'home-poc-app',
